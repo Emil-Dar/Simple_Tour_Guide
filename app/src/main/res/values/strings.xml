@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SimpleTourGuide</string>
+    <string name="horizontal_scroll_view_description">Horizontal Scroll View</string>
+    <string name="calaguas_location_url">https://www.google.com/maps/place/Calaguas+Island/@14.4732984,122.937868,17z/data=!3m1!4b1!4m6!3m5!1s0x3398cf4464cdc971:0x39b63d90b7127984!8m2!3d14.4732984!4d122.937868!16s%2Fg%2F11f6xypgrl?entry=ttu</string>
+    <string name="longbeach_location_url">https://maps.app.goo.gl/kRAT6WsM1Tf7F8AQA</string>
+    <string name="quinamunakan_location_url">https://www.google.com/maps/place/Quinamanuca+Island/@14.2032018,122.9451407,16.05z/data=!4m6!3m5!1s0x3398b11b69435053:0x3a140a0c4cd7d48f!8m2!3d14.2034748!4d122.9515137!16s%2Fg%2F11h0gtkfl?entry=ttu</string>
+    <string name="headquarter_location_url">https://maps.app.goo.gl/bVEv1J84yJ2Rp6ev7</string>
+    <string name="islandhopping_location_url">https://web.facebook.com/watch/?v=1098933770165244</string>
+    <string name="pasalubong_location_url">https://maps.app.goo.gl/cavRur9AtE2qN6Uv7</string>
+    <string name="statue_location_url">https://www.google.com/maps/search/municipality+of+vinzons+camarines+norte+wenceslao+statue/@14.1446109,122.8898496,13z/data=!3m1!4b1?entry=ttu</string>
+    <string name="vinzonschurch_location_url">https://maps.app.goo.gl/UTZFMZ2Qsq9nkYMy9</string>
+    <string name="vphs_location_url">https://maps.app.goo.gl/aovx3CtUwucZ7LP26</string>
+    <string name="scuba_location_url">https://www.youtube.com/watch?v=VzQQxBzvgR0</string>
+
+</resources>
